@@ -1,0 +1,6 @@
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\palindrome\palindrome\bin\Debug\palindrome.exe.config
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\palindrome\palindrome\bin\Debug\palindrome.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\palindrome\palindrome\bin\Debug\palindrome.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\palindrome\palindrome\obj\Debug\palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\palindrome\palindrome\obj\Debug\palindrome.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\palindrome\palindrome\obj\Debug\palindrome.pdb
